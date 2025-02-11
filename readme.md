@@ -1,10 +1,10 @@
- # HTML5 Features Assignment
+ # Prime Number Finder
 
 This project demonstrates the use of HTML5 features including Web Storage, Web Worker, and Geolocation.
 
 ## Features
-- **HTML5 Web Storage:** Save a number input from the user to the browser's local storage.
-- **HTML5 Web Worker:** Increment the stored number until it becomes a prime number.
+- **Web Storage:** Save a number input from the user to the browser's local storage.
+- **Web Worker:** Increment the stored number until it becomes a prime number.
 
 ## Getting Started
 
@@ -46,9 +46,3 @@ This project demonstrates the use of HTML5 features including Web Storage, Web W
 ### Notes
 - Ensure the number input is saved before starting the web worker.
 - The web worker will automatically stop when the number becomes prime or when the "End" button is clicked.
-- Geolocation may prompt the user for permission to access their location.
-
----
-
-By following these instructions, you should be able to run the HTML5 features assignment project and see the functionalities in action. If you encounter any issues or have questions, please refer to the project documentation or seek assistance.
-"""
