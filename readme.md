@@ -12,17 +12,6 @@ This project demonstrates the use of HTML5 features including Web Storage, Web W
 - A modern web browser with support for HTML5 features.
 - A web server to serve the HTML file (e.g., Live Server extension for Visual Studio Code).
 
-### Installation
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-repository/html5-features-assignment.git
-    cd html5-features-assignment
-    ```
-
-2. **Open the Project Folder:**
-   - Open the project folder in your code editor (e.g., Visual Studio Code).
-
 ### Usage
 
 1. **Open `index.html` with Live Server:**
