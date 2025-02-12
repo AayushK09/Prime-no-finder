@@ -1,6 +1,6 @@
  # Prime Number Finder
 
-This project demonstrates the use of HTML5 features including Web Storage, Web Worker, and Geolocation.
+This project demonstrates the use of HTML5 features including Web Storage, Web Worker.
 
 ## Features
 - **Web Storage:** Save a number input from the user to the browser's local storage.
